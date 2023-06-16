@@ -1,0 +1,3 @@
+
+rootProject.name = "Bank_app_sparks"
+include ':app'
